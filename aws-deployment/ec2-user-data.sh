@@ -38,7 +38,7 @@ After=network.target
 Type=simple
 User=ec2-user
 WorkingDirectory=/home/ec2-user/DocumentAnalysis/moengage_project/codebase
-Environment="GOOGLE_API_KEY=AIzaSyCSD6T2I7Gk3ZEV5-hWqkT3yQgRc--P45g"
+Environment="GOOGLE_API_KEY="
 Environment="PORT=5000"
 ExecStart=/usr/bin/python3.11 app.py
 Restart=always
