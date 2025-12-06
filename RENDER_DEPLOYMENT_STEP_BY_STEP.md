@@ -84,11 +84,11 @@ After changing Language to "Python 3", you'll see these fields:
 
 #### **GOOGLE_API_KEY**
 - **Current:** Already set (masked with asterisks)
-- **Action:** ✅ **VERIFY** it shows: `AIzaSyCSD6T2I7Gk3ZEV5-hWqkT3yQgRc--P45g`
+- **Action:** ✅ **VERIFY** it shows: ``
 - **If not set or wrong:**
   1. Click "Edit" or delete and re-add
   2. Key: `GOOGLE_API_KEY`
-  3. Value: `AIzaSyCSD6T2I7Gk3ZEV5-hWqkT3yQgRc--P45g`
+  3. Value: `
   4. Click "Save"
 
 ---
