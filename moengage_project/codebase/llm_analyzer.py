@@ -9,7 +9,7 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(
 
 # --- IMPORTANT: API Key Configuration ---
 # Default API key provided by user
-DEFAULT_API_KEY = "AIzaSyCSD6T2I7Gk3ZEV5-hWqkT3yQgRc--P45g"
+DEFAULT_API_KEY = ""
 API_KEY = os.getenv("GOOGLE_API_KEY", DEFAULT_API_KEY)
 model = None # Initialize model to None globally
 
